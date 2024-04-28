@@ -1,5 +1,7 @@
 # Task3-CrossPattern  
 
+https://github.com/Java-PJATK/Task3-CrossPattern/blob/main/ppj03E.pdf  
+
 ```java
 /*
  * TASK 3
