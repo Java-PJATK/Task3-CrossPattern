@@ -2,6 +2,28 @@
 
 https://github.com/Java-PJATK/Task3-CrossPattern/blob/main/ppj03E.pdf  
 
+March 28, 2024
+
+Deadline: Apr 8 (inclusive)
+
+Task 3
+
+Write a program which reads a natural number n and writes on the console a symmetric ‘cross’ consisting of asterisks: each ‘arm’ shoud have width and height equal to n. 
+
+For example, for n = 3 the result should look like this:
+
+```
+       ***
+       ***
+       ***
+    *********
+    *********
+    *********
+       ***
+       ***
+       ***
+```
+
 ```java
 /*
  * TASK 3
